@@ -1,0 +1,4 @@
+float A,b,c;
+int u;
+char d;
+A=3*2+5*4-10;
